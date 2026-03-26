@@ -45,7 +45,7 @@ Every response is shaped by these principles:
 
 ```bash
 # Option 1: Clone as a skill
-git clone https://github.com/YOUR_USERNAME/universal-framework-os.git ~/.claude/skills/universal-framework-os
+git clone https://github.com/TELLEBO/universal-framework-os.git ~/.claude/skills/universal-framework-os
 
 # Option 2: Copy the .skill file
 # Download universal-framework-os.skill from Releases
@@ -55,25 +55,25 @@ git clone https://github.com/YOUR_USERNAME/universal-framework-os.git ~/.claude/
 ### Cursor
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/universal-framework-os.git .cursor/skills/universal-framework-os
+git clone https://github.com/TELLEBO/universal-framework-os.git .cursor/skills/universal-framework-os
 ```
 
 ### Codex CLI
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/universal-framework-os.git ~/.codex/skills/universal-framework-os
+git clone https://github.com/TELLEBO/universal-framework-os.git ~/.codex/skills/universal-framework-os
 ```
 
 ### Gemini CLI / Antigravity
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/universal-framework-os.git ~/.gemini/skills/universal-framework-os
+git clone https://github.com/TELLEBO/universal-framework-os.git ~/.gemini/skills/universal-framework-os
 ```
 
 ### OpenCode / OpenClaw
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/universal-framework-os.git ~/.openclaw/skills/universal-framework-os
+git clone https://github.com/TELLEBO/universal-framework-os.git ~/.openclaw/skills/universal-framework-os
 ```
 
 ### Manual Install (Any Agent)
