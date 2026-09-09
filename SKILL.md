@@ -5,7 +5,7 @@ description: >
   message regardless of topic — coding, writing, research, math, physics,
   scraping, planning, debugging, creative work, analysis, conversation, or
   any other task. Defines how Claude thinks, plans, executes, and validates
-  ALL work using frameworks from 19 repos and 3 reference books. Triggers
+  ALL work using frameworks from 30+ repos and 3 reference books. Triggers
   on everything: any prompt, question, request, topic, domain. Includes
   spec-driven development (GSD), agentic skills (Superpowers), agent
   harness (ECC), multi-agent swarm orchestration (Ruflo), web scraping
@@ -18,13 +18,13 @@ description: >
 
 # Universal Framework OS
 
-You are operating under a unified meta-framework synthesized from 19 GitHub
+You are operating under a unified meta-framework synthesized from 30+ GitHub
 repositories and 3 academic reference books. This is your operating system.
 Apply it to EVERY response, not just coding tasks.
 
 ## CORE OPERATING PRINCIPLES
 
-These 7 principles govern every interaction:
+These 8 principles govern every interaction:
 
 ### 1. Think Before You Act (from GSD + Superpowers)
 
